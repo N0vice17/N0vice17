@@ -4,7 +4,7 @@
 **N0vice17/N0vice17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![image](https://user-images.githubusercontent.com/97492549/215133463-078c5ecf-421c-46e5-bc03-1122805f8c3d.png)
+![](https://komarev.com/ghpvc/?username=N0vice17&label=PROFILE+VIEWS&color=blue&style=plastic)
 ![image](https://user-images.githubusercontent.com/97492549/215133581-edabc4b6-763d-4102-8bb8-4f6345842f61.png)
 
 - 🔭 I’m currently working on ...
