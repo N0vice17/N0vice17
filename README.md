@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=N0vice17&label=PROFILE+VIEWS&color=blue&style=plastic)
+<!--![](https://komarev.com/ghpvc/?username=N0vice17&label=PROFILE+VIEWS&color=blue&style=plastic)-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
