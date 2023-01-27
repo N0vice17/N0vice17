@@ -5,6 +5,8 @@
 <p align="center"><a href="https://www.linkedin.com/in/debojit-ganguly-907771242/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a></p>
 <h1 align="center">⚡Fun fact: I love to write Colourful Lines on a black screen
 <br>
+<br>
+<br>
 <p align="center"><img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter"></p>
 <!--
 **N0vice17/N0vice17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
