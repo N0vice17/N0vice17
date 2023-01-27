@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--![](https://komarev.com/ghpvc/?username=N0vice17&label=PROFILE+VIEWS&color=blue&style=plastic)-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0vice17&layout=compact&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyansh19077&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!--![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0vice17&layout=compact&show_icons=true)
