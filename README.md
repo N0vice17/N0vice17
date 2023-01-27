@@ -2,7 +2,7 @@
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true">
 <a href="https://www.linkedin.com/in/debojit-ganguly-907771242/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
-⚡Fun fact: I love to write Colourful Lines on a black screen
+<p>⚡Fun fact: **I love to write Colourful Lines on a black screen** </p>
 <!--
 **N0vice17/N0vice17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
