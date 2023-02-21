@@ -3,7 +3,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=N0vice17&label=Profile%20views&color=0e75b6&style=flat" alt="DebojitGanguly" /> </p>
 <p align="center"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"></p>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=N0vice17&show_icons=true&locale=en&layout=compact" alt="Debojit Ganguly" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Debojit_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_pushan" height="30" width="40" /></a>
