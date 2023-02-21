@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=N0vice17&label=Profile%20views&color=0e75b6&style=flat" alt="DebojitGanguly" /> </p>
-<p align="center"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"></p>
+<img align="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=N0vice17&show_icons=true&locale=en&layout=compact" alt="Debojit Ganguly" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
