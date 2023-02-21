@@ -12,6 +12,7 @@
 <a href="https://www.codechef.com/users/developer_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pushan004" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Code_leaner_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mukhopadhyaypushan42" height="30" width="40" /></a>
  <br>
+ <hr>
 <h1 align="center">⚡Fun fact: I love to write Colorful Lines on a black screen
 <br>
 <br>
