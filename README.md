@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=N0vice17&label=Profile%20views&color=0e75b6&style=flat" alt="DebojitGanguly" /> </p>
 <p align="center"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=N0vice17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"></p>
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=N0vice17&show_icons=true&locale=en&layout=compact" alt="Debojit Ganguly" /></p>
- <a href="https://twitter.com/Debojit_18" target="_blank"><img align="left" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+ <a href="https://twitter.com/Debojit_18" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 <p align="right"><a href="https://www.linkedin.com/in/debojit-ganguly-907771242/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a></p>
 <h1 align="center">⚡Fun fact: I love to write Colorful Lines on a black screen
 <br>
