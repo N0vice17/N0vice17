@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/debojit-ganguly-907771242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debojit" height="30" width="40" /></a>
 <a href="https://medium.com/@debojitganguly69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="debojit" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/developer_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="debojit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Newbie_Leaner18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debojit" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Newbie_Learner18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="debojit" height="30" width="40" /></a>
  <br>
 <h1 align="center">⚡Fun fact: I love to write Colorful Lines on a black screen
 <br>
