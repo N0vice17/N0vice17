@@ -14,7 +14,7 @@
 <h1 align="center">⚡Fun fact: I love to write Colorful Lines on a black screen
 <br>
 <br>
-<p align="center"><img src="https://camo.githubusercontent.com/e26fc114879097fcb21f63c1beb41aa438830ac449ae2822031ff58e8e1ff9fc/68747470733a2f2f68617865727a2e696e2f6173736574732f696d616765732f67697472656b742e676966" height="400px" width="750px" alt="Twitter"></p>
+<!-- <p align="center"><img src="https://camo.githubusercontent.com/e26fc114879097fcb21f63c1beb41aa438830ac449ae2822031ff58e8e1ff9fc/68747470733a2f2f68617865727a2e696e2f6173736574732f696d616765732f67697472656b742e676966" height="400px" width="750px" alt="Twitter"></p> -->
 <!--
 **N0vice17/N0vice17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
